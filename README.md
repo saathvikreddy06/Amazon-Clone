@@ -1,1 +1,0 @@
-# To run this project in your system, copy the files or clone it.
